@@ -14,5 +14,17 @@ public class Main
         novo.exibirDetalhes();
         novo.registrarViagem(1200.0);
         novo.exibirDetalhes();
+
+        System.out.println();
+
+        Veiculo novo2 = new Veiculo();
+        novo2.modelo = "Corcel";
+        novo2.placa = "XYZ789";
+        novo2.anoFabricacao = 1977;
+        novo2.quilometragem = 45230.0;
+
+        novo2.exibirDetalhes();
+        novo2.registrarViagem(300.5);
+        novo2.exibirDetalhes();
     }
 }

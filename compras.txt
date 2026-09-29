@@ -1,0 +1,6 @@
+Caneta azul,10,5.5
+Azul caneta,7,6.7
+Papel,9,0.5
+Caneta azul,10,5.6
+Azul caneta,7,6.7
+Papel,100,0.5
